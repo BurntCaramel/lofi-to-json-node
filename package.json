@@ -1,0 +1,14 @@
+{
+  "name": "lofi-to-json",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:BurntCaramel/lofi-to-json-node.git",
+  "author": "Patrick Smith <pgwsmith@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "lofi": "^0.1.2"
+  },
+  "devDependencies": {
+    "@google-cloud/functions-emulator": "1.0.0-alpha.18"
+  }
+}
